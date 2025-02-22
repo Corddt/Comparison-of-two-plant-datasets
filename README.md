@@ -11,7 +11,7 @@
 5. 生成交互式可视化图表（HTML格式）
 
 ## 项目结构
-
+```markdown
 .
 ├── README.md
 ├── compare_datasets.py # Excel报告生成
@@ -19,7 +19,7 @@
 ├── combined_analysis.py # 综合分析报告生成
 ├── plantclef2015.json # PlantCLEF2015数据集
 └── plantnet300k.json # PlantNet300K数据集
-
+```
 ## 安装要求
 
 1. 安装Python 3.x
